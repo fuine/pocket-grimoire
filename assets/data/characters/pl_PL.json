@@ -804,8 +804,8 @@
         "remindersGlobal": [],
         "reminders": [
             "1",
-            " 2",
-            " 3"
+            "2",
+            "3"
         ]
     },
     {
@@ -942,12 +942,17 @@
         "id": "leviathan",
         "name": "Lewiatan",
         "ability": "Jeśli więcej niż 1 dobry gracz zostanie stracony, wygrywasz. Wszyscy gracze wiedzą, że jesteś w grze. Po piątym dniu zło zwycięża.",
-        "firstNightReminder": "Umieść znacznik 'Dzień 1'. Ogłoś: 'Lewiatan jest w grze",
-        "otherNightReminder": "to jest Dzień 1.'",
-        "remindersGlobal": [
-            "Zmień token przypomnienia Dnia Lewiatana na następny dzień."
-        ],
-        "reminders": []
+        "firstNightReminder": "Umieść znacznik 'Dzień 1'. Ogłoś: 'Lewiatan jest w grze. Dziś jest pierwszy dzień'",
+        "otherNightReminder": "Zmień token przypomnienia Dnia Lewiatana na następny dzień.",
+        "remindersGlobal": [],
+        "reminders": [
+            "Dzień 1",
+            "Dzień 2",
+            "Dzień 3",
+            "Dzień 4",
+            "Dzień 5",
+            "Dobry gracz stracony"
+        ]
     },
     {
         "id": "librarian",
