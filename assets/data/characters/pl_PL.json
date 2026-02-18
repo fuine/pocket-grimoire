@@ -392,7 +392,7 @@
         "otherNightReminder": "",
         "remindersGlobal": [],
         "reminders": [
-            "W górę"
+            "Ups"
         ]
     },
     {
@@ -437,14 +437,10 @@
         "id": "dreamer",
         "name": "Śniączka",
         "ability": "Każdej nocy wybierz gracza (nie siebie, nie Podróżnego). Zobaczysz 1 dobrą i 1 złą postać, jedna z nich jest prawdziwa.",
-        "firstNightReminder": "Śniączka wskazuje gracza. Pokaż 1 token dobrej postaci i 1 złej",
-        "otherNightReminder": "jeden z nich jest prawidłowy.",
-        "remindersGlobal": [
-            "Śniączka wskazuje gracza. Pokaż 1 token dobrej postaci i 1 złej"
-        ],
-        "reminders": [
-            "jeden z nich jest prawidłowy."
-        ]
+        "firstNightReminder": "Śniączka wskazuje gracza. Pokaż 1 token dobrej postaci i 1 złej, jeden z nich jest prawidłowy.",
+        "otherNightReminder": "Śniączka wskazuje gracza. Pokaż 1 token dobrej postaci i 1 złej, jeden z nich jest prawidłowy.",
+        "remindersGlobal": [],
+        "reminders": []
     },
     {
         "id": "drunk",
